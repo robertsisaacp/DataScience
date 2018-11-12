@@ -10,9 +10,9 @@ Linus Torvalds, the (spoiler alert!) main contributor to the Linux kernel (and a
 ## Objective & Results
 We get some first insights into the work of the development efforts by
 * Identifying the TOP 10 contributors 
-![](images/Screen%20Shot%202018-11-02%20at%2021.47.08.png)
+![](images/top10.png)
 * Visualizing the commits over the years.
-![](images/Screen%20Shot%202018-11-02%20at%2021.47.18.png)
+![](images/visual.png)
 
 ## References
 * This project is taken from DataCamp [link](https://www.datacamp.com/home)
