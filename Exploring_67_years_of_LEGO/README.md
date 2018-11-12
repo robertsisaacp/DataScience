@@ -2,6 +2,7 @@
 ## Introduction
 In this project, we will analyze a fascinating dataset on every single lego block that has ever been built!
 ![](images/LEGOS.png)
+
 A comprehensive database of lego blocks is provided by Rebrickable. 
 The schema of the data is shown below.
 ![](images/Schema.png)
