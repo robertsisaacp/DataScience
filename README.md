@@ -6,5 +6,4 @@
 
 ## From Lynda [link](https://www.lynda.com)
 * [Tidying Tuberculosis Data](https://github.com/haobecca/DataScience/tree/master/Tuberculosis_Tidy_Data)
-* [Email Analytics](https://github.com/haobecca/DataScience/tree/master/Email_Analytics)
-
+* [Email Analytics](https://github.com/haobecca/DataScience/tree/master/Personal_Email_Analytics)
