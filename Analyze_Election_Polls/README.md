@@ -1,4 +1,4 @@
-# Email analytics challenge
+# Election Poll Data Statistical Analysis 
 
 An election in taking place and we are asked to poll our co-citizens for their vote. We are going to assume that we can reach every voter by phoneand that every poll voter replies truthfully.
 
