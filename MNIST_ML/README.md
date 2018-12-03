@@ -3,6 +3,8 @@
 ![](img/images.png)
 
 ### Objective
+* Build a classifier that predicts the digit from the handwriting.
+* Construct model complexity curve: compute and plot the training and testing accuracy scores for a variety of different neighbor values
 
 ### Dataset
 * 10 classes, the digits 0 through 9.

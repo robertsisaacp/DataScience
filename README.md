@@ -11,6 +11,7 @@
 
 ## From Data Camp ([link](https://www.datacamp.com/home))
 * [The Classic Iris Dataset](https://github.com/haobecca/DataScience/tree/master/Iris_ML)
+* [The MNIST Dataset](https://github.com/haobecca/DataScience/tree/master/MNIST_ML)
 * [Evolution of Linux](https://github.com/haobecca/DataScience/tree/master/Evolution_of_Linux)
 * [Exploring 67 years of LEGO](https://github.com/haobecca/DataScience/tree/master/Exploring_67_years_of_LEGO)
 
