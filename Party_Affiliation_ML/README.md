@@ -11,5 +11,5 @@ Predict their party affiliation ('Democrat' or 'Republican') based on how they v
 
 ## References
 
-* This challenge is taken from DataCamp [link](https://www.datacamp.com/home)
+* This notebook was inspired by DataCamp course Supervised Learning with scikit-learn [link](https://www.datacamp.com/home)
 * This dataset is taken from UCI Machine Learning Repository [link](https://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records)
