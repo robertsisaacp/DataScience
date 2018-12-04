@@ -10,6 +10,7 @@
 * [Tidying Tuberculosis Data](https://github.com/haobecca/DataScience/tree/master/Tuberculosis_Tidy_Data)
 
 ## From Data Camp ([link](https://www.datacamp.com/home))
+* [Housing Values in Boston](https://github.com/haobecca/DataScience/tree/master/Boston_Housing)
 * [The Classic Iris Dataset](https://github.com/haobecca/DataScience/tree/master/Iris_ML)
 * [The MNIST Dataset](https://github.com/haobecca/DataScience/tree/master/MNIST_ML)
 * [Evolution of Linux](https://github.com/haobecca/DataScience/tree/master/Evolution_of_Linux)
