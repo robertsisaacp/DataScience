@@ -1,7 +1,10 @@
 # Housing Values in Suburbs of Boston
 
-### Objective
-Train a predictive model for medv (Median value of owner-occupied homes in $1000's)
+## Objective: 
+* Train regression models for medv (Median value of owner-occupied homes in `$1000`'s) using:
+    * OLR
+    * Regularized regression
+* Examine prediction metrics such as ${R}^{2}$ and RMSE
 
 ### Dataset
 This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. It was obtained from the StatLib archive [link](http://lib.stat.cmu.edu/datasets/boston).
