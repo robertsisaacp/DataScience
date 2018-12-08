@@ -4,6 +4,7 @@
 
 ### Objective
 Predict their party affiliation ('Democrat' or 'Republican') based on how they voted on certain key issues.
+Assess model performance using confusion matrix.
 
 ### Dataset
 * Congressional Voting Records
