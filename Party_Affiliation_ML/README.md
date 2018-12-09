@@ -3,8 +3,10 @@
 ![](img/Congress.jpg)
 
 ### Objective
-Predict their party affiliation ('Democrat' or 'Republican') based on how they voted on certain key issues.
-Assess model performance using confusion matrix.
+* KNN Classification
+* Assess model performance using confusion matrix.
+* Logistic Regression
+* Assess model performance with ROC and AUC
 
 ### Dataset
 * Congressional Voting Records
