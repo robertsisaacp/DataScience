@@ -1,5 +1,8 @@
 # Data Science Projects
 
+## Neural Networks
+* [Predicting Video Game Earnings](https://github.com/haobecca/DataScience/tree/master/Video_Game_Earnings_Prediction)
+
 ## Regression Models
 * [Housing Values in Boston](https://github.com/haobecca/DataScience/tree/master/Boston_Housing)
 
