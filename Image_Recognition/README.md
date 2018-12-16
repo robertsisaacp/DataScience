@@ -1,5 +1,9 @@
 # Image Recognition with Keras
-## Objective: 
+
+## Deep Neural Networks for Image Recognition
+![](./my_little_graphic.jpeg)
+
+## Objective
 
 * Play with buit-in Keras' ResNet50 model that was pre-trained against the ImageNet database
 * Using the CIFAR-10 database, build our own Neural Network to recognize 10 different categories of things: plane, car, bird, cat, deer, dog, frog, horse, boat, truck
