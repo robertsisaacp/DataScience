@@ -1,6 +1,7 @@
 # Data Science Projects
 
 ## Neural Networks
+* [Image Recognition](https://github.com/haobecca/DataScience/tree/master/Image_Recognition)
 * [Predicting Video Game Earnings](https://github.com/haobecca/DataScience/tree/master/Video_Game_Earnings_Prediction)
 
 ## Regression Models
