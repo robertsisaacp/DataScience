@@ -18,7 +18,8 @@
 * [Email Analytics](https://github.com/haobecca/DataScience/tree/master/Personal_Email_Analytics)
 * [Tidying Tuberculosis Data](https://github.com/haobecca/DataScience/tree/master/Tuberculosis_Tidy_Data)
 
-## Exploratory Projects From Data Camp ([link](https://www.datacamp.com/home))
+## Projects From Data Camp ([link](https://www.datacamp.com/home))
+* [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/haobecca/DataScience/tree/master/Discovering_Handwashing)
 * [Evolution of Linux](https://github.com/haobecca/DataScience/tree/master/Evolution_of_Linux)
 * [Exploring 67 years of LEGO](https://github.com/haobecca/DataScience/tree/master/Exploring_67_years_of_LEGO)
 
