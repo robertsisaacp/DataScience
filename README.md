@@ -12,6 +12,9 @@
 * [The Classic Iris Dataset](https://github.com/haobecca/DataScience/tree/master/Iris_ML)
 * [The MNIST Dataset](https://github.com/haobecca/DataScience/tree/master/MNIST_ML)
 
+## Exploratory Data Analysis
+* [Women in STEM](https://github.com/haobecca/DataScience/tree/master/Women_In_STEM)
+
 ## Statistical Analysis Projects From Lynda ([link](https://www.lynda.com))
 * [Gapminder Statistical Modeling](https://github.com/haobecca/DataScience/tree/master/Gapminder_Model_Fitting)
 * [Analyzing Election Data](https://github.com/haobecca/DataScience/tree/master/Analyze_Election_Polls)
