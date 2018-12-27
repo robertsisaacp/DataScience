@@ -1,6 +1,7 @@
 # Women in STEM: A Look at Postsecondary Degrees Awarded
 
-“Women make up half of the total U.S. college-educated workforce, but only 29% of the science and engineering workforce… (compared to men in the field) there are relatively low shares in engineering (15%) and computer and mathematical sciences (25%).”- National Girls Collaborative Project
+>“Women make up half of the total U.S. college-educated workforce, but only 29% of the science and engineering workforce… (compared to men in the field) there are relatively low shares in engineering (15%) and computer and mathematical sciences (25%).”- National Girls Collaborative Project
+[National Girls Collaborative Project](https://ngcproject.org/statistics)
 
 Why care about female representation in STEM? 
 [Bianca Barratt](https://www.forbes.com/sites/biancabarratt/2018/11/17/the-need-for-more-women-in-stem-roles-goes-beyond-simple-diversity/#38bd614445cb) states it beautifully and succintly:
@@ -35,7 +36,7 @@ A full list of STEM degrees recognized by the Department of Homeland Security is
 * Health professions remains the most popular degree among women all through the years. Psychology entering the top 5 around 1990. 
 ![](img/top_5_STEM_degrees.png)
 * Health Professions, Psychology and Biology are consistently the top 3 STEM degrees for women.
-* While computer science was the 5th most popular degree (13.6%), it is replaced by other STEM degrees (such as Math, Architecture and Agriculture) in subsequenct years.
+* While computer science was the 6th most popular degree (13.6%), it is replaced by other STEM degrees (such as Math, Architecture and Agriculture) in subsequenct years.
 ![](img/degrees_women.png) 
 * Women now obtain postsecondary degrees at a higher rate compared to men. The percentage of total degrees awarded to women has grown from 38.6 to 56%.
 * Women have had higher representation compared to men in Non-STEM fields since 1970 (52.9%). This statistic has increased to 65% over the years.
