@@ -31,19 +31,19 @@ A full list of STEM degrees recognized by the Department of Homeland Security is
 * Among the 17 types of degrees considered: Which ones have become more popular among women? Which ones are less popular than average?
 
 ### Key Takeaways:
-[](/top_5_degrees.png)
+[](top_5_degrees.png)
 * Health professions remains the most popular degree among women all through the years. Psychology entering the top 5 around 1990. 
-[](/top_5_STEM_degrees.png)
+[](top_5_STEM_degrees.png)
 * Health Professions, Psychology and Biology are consistently the top 3 STEM degrees for women.
 * While computer science was the 5th most popular degree (13.6%), it is replaced by other STEM degrees (such as Math, Architecture and Agriculture) in subsequenct years.
-[](/degrees_women.png) 
+[](degrees_women.png) 
 * Women now obtain postsecondary degrees at a higher rate compared to men. The percentage of total degrees awarded to women has grown from 38.6 to 56%.
 * Women have had higher representation compared to men in Non-STEM fields since 1970 (52.9%). This statistic has increased to 65% over the years.
 * It is also encouraging to see the close to 50% of STEM degrees are now awarded to women.
 * However, when isolating Computer Science and Engineering degrees, women are still very underrepresented (about 18% respectively).
 * We see a period of increased interest in computer science among women between the years 1970 and 1983 (peaked at 37.1%). However, this interest has been on the decline since.
 * Women representation in Engineering has been steadily increasing since 1970 (up from less than 1%!). However, this momentum has slowed down since around 1998.
-[](/degrees_change.png)
+[](degrees_change.png)
 * We see that female representation has increased by around 40% in Agriculture and Business since 1970
 * Architecture, Psycology and Biology see a 30% increase in female representation. 
 * Foreign Languages, while still predominantly female, sees a 4.4% drop (73.8% to 69.5%). 
