@@ -1,10 +1,9 @@
 # NLP: Spam or Ham?
 ### Objective
-Prepare the text data for processing by
-* removing punctuation, tokenizing and removing stop words
-* stemming and lemmatizing
-* vectorizing
-Create and evaluate features for a classifier
+#### Prepare the text data for processing by
+* removing punctuation, tokenizing, removing stop words and lemmatizing
+* apply and compare TfidfVectorizer and CountVectorizer with bigrams
+#### Create and evaluate features for a classifier
 
 ### Dataset
 * The SMS Spam Collection v.1 is a public set of SMS labeled messages that have been collected for mobile phone spam research. It has one collection composed by 5,574 English, real and non-enconded messages, tagged according being legitimate (ham) or spam.

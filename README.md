@@ -1,5 +1,9 @@
 # Data Science Projects
 
+
+## NLP
+* [Spam or Ham?](https://github.com/haobecca/DataScience/tree/master/Spam_or_Ham)
+
 ## Neural Networks
 * [Image Recognition](https://github.com/haobecca/DataScience/tree/master/Image_Recognition)
 * [Predicting Video Game Earnings](https://github.com/haobecca/DataScience/tree/master/Video_Game_Earnings_Prediction)
