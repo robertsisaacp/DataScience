@@ -18,6 +18,7 @@
 
 ## Exploratory Data Analysis
 * [Women in STEM](https://github.com/haobecca/DataScience/tree/master/Women_In_STEM)
+* [Readability of 2013 Immigration Bill](https://github.com/haobecca/DataScience/tree/master/Fact_Checking)
 
 ## Statistical Analysis Projects From Lynda ([link](https://www.lynda.com))
 * [Gapminder Statistical Modeling](https://github.com/haobecca/DataScience/tree/master/Gapminder_Model_Fitting)
